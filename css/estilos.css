@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Noto+Sans+HK:wght@300&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
+
+body{
+	background-color: black;
+}
+
+header {
+	height: 100vh;
+	width: auto;
+}
+
+.q-somos{
+	height: 650px;
+	width: auto;
+	color:#CF81B6;
+}
+
+.titulos {
+	padding-top: 50px;
+	font-family: 'Fredoka One', cursive;
+	color: #CF81B6;
+}
+
+.parrafos {
+	font-family: 'Noto Sans HK', sans-serif;
+	color: #CF81B6;
+}
+
+.trajes{
+	color:#CF81B6;
+}
+
+.gafas{
+	color: #CF81B6;
+}
+
+
+
+
+
+
+
+
